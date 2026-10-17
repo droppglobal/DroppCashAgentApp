@@ -1,0 +1,9 @@
+App Setup Instructions:
+
+Go to your files
+Then open the lib file and select utlis file
+Then you will get filename- url.dart
+From there there is an option for changing the URL and setting up your URL
+
+
+
